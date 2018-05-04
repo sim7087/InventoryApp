@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="add">Add a product</string>
+    <string name="product_name">Product Name : </string>
+    <string name="empty_text">Get started by adding a product in list</string>
+    <string name="order">Order</string>
+    <string name="select_image">Select image</string>
+    <string name="supplier">Supplier\'s Phone no. : </string>
+    <string name="phone">eg. +91-7087273182</string>
+    <string name="ten_digit">0123456789+</string>
+    <string name="price">Price</string>
+    <string name="discard_changes">Discard your changes and quit editing?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="delete_product_failed">Error in deleting product</string>
+    <string name="delete_product_successful">Product deleted</string>
+    <string name="add_product">Add a product</string>
+    <string name="edit_product">Edit Product</string>
+    <string name="insertion_failed">Inserting product failed</string>
+    <string name="insertion_successful">Inserting product done</string>
+    <string name="sale">Sale</string>
+</resources>
